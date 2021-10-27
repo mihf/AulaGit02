@@ -1,0 +1,8 @@
+# jar
+*.jar
+
+# xml
+*.xml
+
+# Dependency directories
+node_modules/
